@@ -38,6 +38,15 @@ To ensure that the data was clean and ready for analysis I:
 
 **Analysis and Visualizations**  
 This analysis focused on evaluating student reading growth and identifying patterns related to intervention participation, grade level, and attendance.All analysis and visualizations were completed in Excel using pivot tables, calculated fields, and charts to support clear interpretations of results.   
+### Average Reading Growth by Intervention Status
+![Average Reading Growth by Intervention](charts/avg_reading_growth_by_intervention.png)
+### Average Reading Growth by Grade Level
+![Average Reading Growth by Grade Level](charts/avg_reading_growth_by_grade_level.png)
+### Average Reading Growth by Grade Level and Intervention Status
+![Average Reading Growth by Grade Level and Intervention Status](charts/avg_reading_growth_by_grade_level.png)
+### Average Reading Growth by Attendance
+![Average Reading Growth by Attendance](charts/reading_growth_by_attendance.png)
+
 **Reading Growth Calculation:** In order to accurately measure student progress, a metric was created by subtracting the students beginning of the year reading level by their end of year level. This metric served as a primary outcome variable for all subsequent analysis. This project analyzes reading growth by 3 different variables.
 
 * **Reading Growth by Intervention Status:** A pivot chart and column chart was used to compare average reading growth by those students who received reading interventions (either small group or one-on-one) and those who did not. This visualization highlights whether or not interventions are proving to be effective in increasing reading growth.  
@@ -66,3 +75,6 @@ While this analysis provides useful insights into student reading growth, severa
 * Limited sample size: This analysis includes a relatively small number of students across three different grade levels. A larger dataset would allow for deeper statistical analysis.   
 * Simplified reading level measure: Reading levels were represented using a numeric scale for ease of analysis.  
 * Uncontrolled external factors: This analysis does not account for variables such as instructional quality, home literacy environment, English Language Learner status, or socioeconomic factors which can all influence reading outcomes.
+
+**Data and Files**
+[Download the Excel Dataset](data/reading_intervention_dataset.xlsx)
