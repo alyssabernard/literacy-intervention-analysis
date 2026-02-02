@@ -39,7 +39,7 @@ To ensure that the data was clean and ready for analysis I:
 **Analysis and Visualizations**  
 This analysis focused on evaluating student reading growth and identifying patterns related to intervention participation, grade level, and attendance.All analysis and visualizations were completed in Excel using pivot tables, calculated fields, and charts to support clear interpretations of results.   
 ### Average Reading Growth by Intervention Status
-![Average Reading Growth by Intervention](charts/avg_reading_growth_by_intervention.png)
+![Average Reading Growth by Intervention](charts/avg_reading_growth_by_intervention_status.png)
 ### Average Reading Growth by Grade Level
 ![Average Reading Growth by Grade Level](charts/avg_reading_growth_by_grade_level.png)
 ### Average Reading Growth by Grade Level and Intervention Status
